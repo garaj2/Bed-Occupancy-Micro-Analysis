@@ -24,18 +24,19 @@ Filled non-ICU beds divided by total non-ICU beds. Identifies bottlenecks in gen
 Excel-based grouped horizontal bar chart comparing all three metrics across hospital departments.  
 A checkbox filter was added to dynamically show or hide components of the visualization to make patterns easier to interpret.
 
-<img width="1122" height="1468" alt="image" src="https://github.com/user-attachments/assets/c7e6601f-548c-4837-8bab-938f4b3154aa" />
+<img width="1121" height="1474" alt="image" src="https://github.com/user-attachments/assets/cf3cc332-985e-4b1b-8733-045bb3deab6d" />
+
 
 
 
 ## Insights
-- **Psychiatry, Long-Term Care, and Palliative Care** show the highest total occupancy, ranging from 55 to 57 percent.
-- **Orthopedic, Psychiatry, and Neurosurgery** display the highest ICU occupancy (66 to 67 percent).
-- **Emergency Department, General Surgery, and Trauma Center** exhibit the highest non-ICU occupancy (76 to 80 percent).
+- **Long-Term Care, Internal Medicine, and Trauma Center** show the highest total occupancy, ranging from 73 to 78 percent.
+- **Transplant Unit, Pediatrics General, and Orthopedic** display the highest ICU occupancy (65 to 67 percent).
+- **Long-Term Care and Internal Medicine** exhibit the highest non-ICU occupancy, much more than other departments (65 to 75 percent).
 
-Across all metrics, the **Emergency Department, General Surgery, and Trauma Center** stand out as departments with high and consistent pressure in terms of filled capacity. These departments may benefit from closer monitoring of patient flow and discharge throughput to prevent operational bottlenecks.
+Across all metrics, the **Long Term Care and Internal Medicine** stand out as departments with high and consistent pressure in terms of total filled capacity and Non-ICU capacity. These departments may benefit from closer monitoring of patient flow and discharge throughput to prevent operational bottlenecks.
 
-**Psychiatry**, in particular, shows one of the highest ICU occupancy rates and also maintains elevated total occupancy compared to other departments. This combination suggests sustained pressure across both critical care and general bed resources, making it an important area for closer monitoring of patient flow.
+**Pediatrics General, Cardiology,Oncology, Transplant Unit, Burn Unit, and ED** all have noticeably higher occupancy rates for ICU beds compared to non-ICU beds. These departments may benefit from monitoring of referral patterns and further examination of potential inefficiencies in care.
 
 ## File Included
-- **Hospital_Bed_Capacity_ExcelAnalysis_v3.xlsx** – All calculations, metrics, and visualizations.
+- **Hospital_Bed_Capacity_ExcelAnalysis_v3_5.xlsx** – All calculations, metrics, and visualizations.
