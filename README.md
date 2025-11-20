@@ -1,8 +1,8 @@
 # Bed-Occupancy-Micro-Analysis
-##Business Question
+## Business Question
 Assess the Bed Occupancy of a Tertiary Hospital by Department. Which Departments have the highest and lowest rates of Occupancy?
 
-##Data Source
+## Data Source
 Synthetic Hospital Bed Capacity and ICU Load Dataset <https://www.kaggle.com/datasets/endernel/capacity-of-hospitals-bed>
 
 ## Metrics 
