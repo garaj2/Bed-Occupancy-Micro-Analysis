@@ -21,4 +21,4 @@ Highest ICU occupancy percentages are present in Orthopedic (67%) , Psychiatry (
 
 Highest Non-ICU occupancy percentages are present in Emergency Department (79%) , General Surgery (80%), and Trauma Center (76%) Departments.
 
-Emergency Department, General Surgery, and Trauma Center Departments s will require the most attention regarding capacity, given how much higher these percentage values are compared to other metrics and departments.
+Emergency Department, General Surgery, and Trauma Center Departments will require the most attention regarding capacity, given how much higher these percentage values are compared to other metrics and departments.
