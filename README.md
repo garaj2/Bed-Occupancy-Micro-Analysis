@@ -15,8 +15,8 @@ Excel-based grouped horizontal bar chart showing each metric for each hospital d
 
 ## Insights
 
-Highest occupancy percentages are present in Psychiatry (), Long-Term Care(), and Palliative Care () Departments.
+Highest occupancy percentages are present in Psychiatry (55%), Long-Term Care(57%), and Palliative Care (57%) Departments.
 
-Highest ICU occupancy percentages are present in Orthopedic () , Psychiatry (), and Neurosurgery () Departments.
+Highest ICU occupancy percentages are present in Orthopedic (67%) , Psychiatry (67%), and Neurosurgery (66%) Departments.
 
 Highest Non-ICU occupancy percentages are present in Emergency Department (79%) , General Surgery (80%), and Trauma Center (76%) Departments.
